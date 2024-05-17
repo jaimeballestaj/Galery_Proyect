@@ -1,7 +1,11 @@
 import React from 'react'
-
-export const Cpaisaje9 = () => {
+import  Cpaisaje9a from '..paisaje9.jpg'
+const Cpaisaje9 = () => {
   return (
-    <div>Cpaisaje9</div>
+    <div>
+<img src={Cpaisaje9a} alt="Paisaje" />
+
+    </div>
   )
 }
+export default Cpaisaje9

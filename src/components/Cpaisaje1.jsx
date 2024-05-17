@@ -8,3 +8,5 @@ const Cpaisaje1 = () => {
     </div>
   )
 }
+
+export default Cpaisaje1

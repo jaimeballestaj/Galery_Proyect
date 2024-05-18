@@ -1,0 +1,12 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px; /* Ajusta la altura según sea necesario */
+}
+
+.image-container img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain; /* Esto asegura que la imagen se ajuste dentro del contenedor sin deformarse */
+}

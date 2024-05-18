@@ -1,5 +1,5 @@
 import React from 'react'
-import  Cpaisaje8a from '..paisaje8.jpg'
+import  Cpaisaje8a from '../images/paisaje8.jpg'
 const Cpaisaje8 = () => {
   return (
     <div>
